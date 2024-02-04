@@ -43,7 +43,7 @@
 <br />
 <p align="center">
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoseBueno30&theme=react&show_icons=true&hide_border=false&count_private=true" alt="josebueno30"/>
-  <img width="45%" height="160" src="https://github-readme-stats.vercel.app/api?username=JoseBueno30&theme=react&show_icons=true&hide_border=false" alt="josebueno30"/>
+  <img width="45%" height="150" src="https://github-readme-stats.vercel.app/api?username=JoseBueno30&theme=react&show_icons=true&hide_border=false" alt="josebueno30"/>
 </p>
 <p  align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseBueno30&theme=react&show_icons=true&hide_border=false" alt="josebueno30" />
